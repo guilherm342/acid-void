@@ -1,0 +1,50 @@
+/* Gerais */
+body {
+    font-family:'Fondamento', sans-serif;
+}
+
+.row{
+    margin: 0;
+}
+
+.container {
+    padding: 70px 0;
+}
+
+p, li{
+    color: darkred;
+    font-size: 14px;
+}
+
+
+/* Barra de Navegação */
+header, .navbar {
+    background-color: black;
+}
+
+#nav-container{
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+#logo {
+    width: 180px;
+}
+
+.navbar-brand {
+    padding: 0;
+    color: darkred;
+}
+
+.navbar-brand:hover {
+    color: red;
+}
+
+#navbar-links a {
+    color: darkred;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding: 1rem .8rem;
+}
+
